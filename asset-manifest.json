@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e5acd980.chunk.css",
+    "main.js": "/static/js/main.48319041.chunk.js",
+    "main.js.map": "/static/js/main.48319041.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.930c5b1d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.930c5b1d.js.map",
+    "static/js/2.3f5c2897.chunk.js": "/static/js/2.3f5c2897.chunk.js",
+    "static/js/2.3f5c2897.chunk.js.map": "/static/js/2.3f5c2897.chunk.js.map",
+    "static/js/3.d3356475.chunk.js": "/static/js/3.d3356475.chunk.js",
+    "static/js/3.d3356475.chunk.js.map": "/static/js/3.d3356475.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.e5acd980.chunk.css.map": "/static/css/main.e5acd980.chunk.css.map",
+    "static/js/2.3f5c2897.chunk.js.LICENSE.txt": "/static/js/2.3f5c2897.chunk.js.LICENSE.txt",
+    "static/media/React.29cf0bb5.png": "/static/media/React.29cf0bb5.png",
+    "static/media/Wordpress.42964a3b.png": "/static/media/Wordpress.42964a3b.png",
+    "static/media/enriskconsulting.ba1544f8.jpg": "/static/media/enriskconsulting.ba1544f8.jpg",
+    "static/media/profile.d1359e76.jpg": "/static/media/profile.d1359e76.jpg",
+    "static/media/samran.fa616fa9.jpg": "/static/media/samran.fa616fa9.jpg",
+    "static/media/sanazafshari.59bec0df.jpg": "/static/media/sanazafshari.59bec0df.jpg",
+    "static/media/sepid-sabt.ed900fe7.jpg": "/static/media/sepid-sabt.ed900fe7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.930c5b1d.js",
+    "static/js/2.3f5c2897.chunk.js",
+    "static/css/main.e5acd980.chunk.css",
+    "static/js/main.48319041.chunk.js"
+  ]
+}
